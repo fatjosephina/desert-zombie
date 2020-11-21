@@ -467,13 +467,3 @@
 "classname" "info_player_start"
 "origin" "16 16 40"
 }
-// entity 2
-{
-"classname" "monster_hell_knight"
-"origin" "-256 2040 56"
-}
-// entity 3
-{
-"classname" "monster_shalrath"
-"origin" "-288 2104 56"
-}
