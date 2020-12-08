@@ -19369,7 +19369,8 @@
 // entity 70
 {
 "classname" "info_player_start"
-"origin" "356 -828 64"
+"origin" "320 -1264 56"
+"angle" "90"
 }
 // entity 71
 {
@@ -21301,4 +21302,335 @@
 "classname" "item_health"
 "origin" "304 -40 680"
 "spawnflags" "2"
+}
+// entity 115
+{
+"classname" "trigger_secret"
+// brush 0
+{
+( 96 320 0 ) ( 96 320 8 ) ( 96 200 8 ) trigger 0 0 0 1 1
+( 144 200 8 ) ( 144 200 0 ) ( 96 200 0 ) trigger 0 0 0 1 1
+( 96 200 0 ) ( 144 200 0 ) ( 144 320 0 ) trigger 0 0 0 1 1
+( 144 320 8 ) ( 144 200 8 ) ( 96 200 8 ) trigger 0 0 0 1 1
+( 144 320 0 ) ( 144 320 8 ) ( 96 320 8 ) trigger 0 0 0 1 1
+( 144 320 0 ) ( 144 200 0 ) ( 144 200 8 ) trigger 0 0 0 1 1
+}
+}
+// entity 116
+{
+"classname" "trigger_secret"
+// brush 0
+{
+( 544 304 232 ) ( 544 304 320 ) ( 544 216 320 ) trigger 0 0 0 1 1
+( 552 216 320 ) ( 552 216 232 ) ( 544 216 232 ) trigger 0 0 0 1 1
+( 544 216 232 ) ( 552 216 232 ) ( 552 304 232 ) trigger 0 0 0 1 1
+( 552 304 320 ) ( 552 216 320 ) ( 544 216 320 ) trigger 0 0 0 1 1
+( 552 304 232 ) ( 552 304 320 ) ( 544 304 320 ) trigger 0 0 0 1 1
+( 552 304 232 ) ( 552 216 232 ) ( 552 216 320 ) trigger 0 0 0 1 1
+}
+}
+// entity 117
+{
+"classname" "trigger_secret"
+// brush 0
+{
+( 40 -488 232 ) ( 40 -487 232 ) ( 40 -488 233 ) trigger 0 0 0 1 1
+( 40 -488 232 ) ( 40 -488 233 ) ( 41 -488 232 ) trigger 0 0 0 1 1
+( 40 -488 232 ) ( 41 -488 232 ) ( 40 -487 232 ) trigger 0 0 0 1 1
+( 232 -304 240 ) ( 232 -303 240 ) ( 233 -304 240 ) trigger 0 0 0 1 1
+( 232 -304 240 ) ( 233 -304 240 ) ( 232 -304 241 ) trigger 0 0 0 1 1
+( 232 -304 240 ) ( 232 -304 241 ) ( 232 -303 240 ) trigger 0 0 0 1 1
+}
+}
+// entity 118
+{
+"classname" "trigger_secret"
+// brush 0
+{
+( 192 360 632 ) ( 192 360 640 ) ( 192 328 640 ) trigger 0 0 0 1 1
+( 448 328 640 ) ( 448 328 632 ) ( 192 328 632 ) trigger 0 0 0 1 1
+( 192 328 632 ) ( 448 328 632 ) ( 448 360 632 ) trigger 0 0 0 1 1
+( 448 360 640 ) ( 448 328 640 ) ( 192 328 640 ) trigger 0 0 0 1 1
+( 448 360 632 ) ( 448 360 640 ) ( 192 360 640 ) trigger 0 0 0 1 1
+( 448 360 632 ) ( 448 328 632 ) ( 448 328 640 ) trigger 0 0 0 1 1
+}
+}
+// entity 119
+{
+"classname" "trigger_secret"
+// brush 0
+{
+( -8 240 -184 ) ( -8 240 -80 ) ( -8 200 -80 ) trigger 0 0 0 1 1
+( 0 200 -80 ) ( 0 200 -184 ) ( -8 200 -184 ) trigger 0 0 0 1 1
+( -8 200 -184 ) ( 0 200 -184 ) ( 0 240 -184 ) trigger 0 0 0 1 1
+( 0 240 -80 ) ( 0 200 -80 ) ( -8 200 -80 ) trigger 0 0 0 1 1
+( 0 240 -184 ) ( 0 240 -80 ) ( -8 240 -80 ) trigger 0 0 0 1 1
+( 0 240 -184 ) ( 0 200 -184 ) ( 0 200 -80 ) trigger 0 0 0 1 1
+}
+}
+// entity 120
+{
+"classname" "monster_fish"
+"origin" "448 1032 -72"
+}
+// entity 121
+{
+"classname" "monster_fish"
+"origin" "88 1136 -72"
+}
+// entity 122
+{
+"classname" "monster_fish"
+"origin" "136 1192 -72"
+}
+// entity 123
+{
+"classname" "monster_shalrath"
+"origin" "488 640 -160"
+"angle" "180"
+}
+// entity 124
+{
+"classname" "monster_zombie"
+"origin" "384 656 -168"
+"angle" "180"
+}
+// entity 125
+{
+"classname" "monster_zombie"
+"origin" "344 608 -168"
+"angle" "180"
+}
+// entity 126
+{
+"classname" "monster_zombie"
+"origin" "304 648 -168"
+"angle" "180"
+}
+// entity 127
+{
+"classname" "monster_fish"
+"origin" "560 -16 -232"
+}
+// entity 128
+{
+"classname" "monster_fish"
+"origin" "656 -16 -232"
+}
+// entity 129
+{
+"classname" "monster_fish"
+"origin" "608 -88 -232"
+}
+// entity 130
+{
+"classname" "item_shells"
+"origin" "1032 -1672 32"
+}
+// entity 131
+{
+"classname" "item_shells"
+"origin" "960 -1720 32"
+}
+// entity 132
+{
+"classname" "item_shells"
+"origin" "-288 -576 32"
+}
+// entity 133
+{
+"classname" "item_armor1"
+"origin" "-200 184 32"
+}
+// entity 134
+{
+"classname" "item_health"
+"origin" "1024 240 32"
+"spawnflags" "2"
+}
+// entity 135
+{
+"classname" "item_shells"
+"origin" "112 296 48"
+}
+// entity 136
+{
+"classname" "item_spikes"
+"origin" "504 296 48"
+}
+// entity 137
+{
+"classname" "item_rockets"
+"origin" "504 192 48"
+}
+// entity 138
+{
+"classname" "item_cells"
+"origin" "112 192 48"
+}
+// entity 139
+{
+"classname" "item_shells"
+"origin" "528 32 16"
+"spawnflags" "1"
+}
+// entity 140
+{
+"classname" "item_shells"
+"origin" "256 1024 -32"
+}
+// entity 141
+{
+"classname" "item_health"
+"origin" "296 1168 -32"
+}
+// entity 142
+{
+"classname" "item_shells"
+"origin" "560 768 16"
+}
+// entity 143
+{
+"classname" "item_armor2"
+"origin" "608 208 232"
+}
+// entity 144
+{
+"classname" "item_shells"
+"origin" "592 256 232"
+}
+// entity 145
+{
+"classname" "item_health"
+"origin" "104 240 168"
+}
+// entity 146
+{
+"classname" "item_health"
+"origin" "48 192 480"
+}
+// entity 147
+{
+"classname" "item_shells"
+"origin" "560 256 480"
+}
+// entity 148
+{
+"classname" "monster_fish"
+"origin" "264 288 408"
+}
+// entity 149
+{
+"classname" "monster_fish"
+"origin" "424 288 408"
+}
+// entity 150
+{
+"classname" "monster_fish"
+"origin" "328 240 408"
+}
+// entity 151
+{
+"classname" "item_spikes"
+"origin" "592 848 328"
+}
+// entity 152
+{
+"classname" "item_shells"
+"origin" "592 792 136"
+}
+// entity 153
+{
+"classname" "item_shells"
+"origin" "72 1432 -160"
+}
+// entity 154
+{
+"classname" "item_armor1"
+"origin" "128 1152 -192"
+}
+// entity 155
+{
+"classname" "item_shells"
+"origin" "96 624 -192"
+}
+// entity 156
+{
+"classname" "item_health"
+"origin" "336 520 -192"
+}
+// entity 157
+{
+"classname" "item_health"
+"origin" "648 240 -192"
+}
+// entity 158
+{
+"classname" "item_health"
+"origin" "584 -784 -192"
+}
+// entity 159
+{
+"classname" "item_spikes"
+"origin" "664 -1144 32"
+}
+// entity 160
+{
+"classname" "item_health"
+"origin" "320 320 -192"
+}
+// entity 161
+{
+"classname" "item_spikes"
+"origin" "160 256 -192"
+}
+// entity 162
+{
+"classname" "item_spikes"
+"origin" "-160 -672 -120"
+}
+// entity 163
+{
+"classname" "item_cells"
+"origin" "-8 -1112 32"
+}
+// entity 164
+{
+"classname" "item_health"
+"origin" "64 -16 16"
+}
+// entity 165
+{
+"classname" "item_spikes"
+"origin" "296 192 512"
+}
+// entity 166
+{
+"classname" "item_shells"
+"origin" "264 224 760"
+}
+// entity 167
+{
+"classname" "item_armorInv"
+"origin" "264 208 864"
+}
+// entity 168
+{
+"classname" "item_spikes"
+"origin" "328 256 864"
+}
+// entity 169
+{
+"classname" "item_health"
+"origin" "384 200 864"
+}
+// entity 170
+{
+"classname" "item_health"
+"origin" "136 0 760"
+}
+// entity 171
+{
+"classname" "item_shells"
+"origin" "480 8 760"
 }
