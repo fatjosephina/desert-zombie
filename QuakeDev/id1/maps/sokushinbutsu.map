@@ -4,6 +4,7 @@
 {
 "classname" "worldspawn"
 "wad" "C:/QuakeDev/wads/prototype_1_2.wad;C:/QuakeDev/wads/JosephWad.wad;C:/QuakeDev/wads/id1.wad"
+"message" "Sokushinbutsu"
 // brush 0
 {
 ( 232 304 848 ) ( 232 304 864 ) ( 232 112 864 ) wgrnd1_8 0 0 0 1 1
